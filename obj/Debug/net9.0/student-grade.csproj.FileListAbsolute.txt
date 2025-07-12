@@ -1,0 +1,15 @@
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\student-grade\bin\Debug\net9.0\student-grade.exe
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\student-grade\bin\Debug\net9.0\student-grade.deps.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\student-grade\bin\Debug\net9.0\student-grade.runtimeconfig.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\student-grade\bin\Debug\net9.0\student-grade.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\student-grade\bin\Debug\net9.0\student-grade.pdb
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\student-grade\obj\Debug\net9.0\student-grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\student-grade\obj\Debug\net9.0\student-grade.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\student-grade\obj\Debug\net9.0\student-grade.AssemblyInfo.cs
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\student-grade\obj\Debug\net9.0\student-grade.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\student-grade\obj\Debug\net9.0\student-grade.sourcelink.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\student-grade\obj\Debug\net9.0\student-grade.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\student-grade\obj\Debug\net9.0\refint\student-grade.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\student-grade\obj\Debug\net9.0\student-grade.pdb
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\student-grade\obj\Debug\net9.0\student-grade.genruntimeconfig.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\student-grade\obj\Debug\net9.0\ref\student-grade.dll
